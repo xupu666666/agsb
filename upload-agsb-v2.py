@@ -32,7 +32,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "xp"         # 用户名
-UUID = ""                     # UUID，留空则自动生成
+UUID = "350848b0-63ec-4750-83b1-4e8e6da09ac5"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
 DOMAIN = "test-vpn.xupu.cloudns.be"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiYzE0YTFlY2U5ZGM1OTI4NjdmOWMxNzRjMDNlZWU0M2UiLCJ0IjoiNTViYTBlNWUtZTViMi00YWVlLTk2NTgtZmJjOWRkOWI3ZWNhIiwicyI6IlpXUTNZVFkyWWpndE5ERTFaaTAwTm1Wa0xXSXpNamN0WVdJeVpEWmlZbUU0T0daaiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
